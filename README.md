@@ -1,2 +1,2 @@
 # seclasses
-soft engneering classes
+software engneering classes
